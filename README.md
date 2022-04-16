@@ -7,7 +7,7 @@ This is a simple weather API writing with Golang for Gobootcamp and Using [OpenW
 ## Go Version
 
 ```
-go1.17.6 
+go1.17
 ```
 
 ## How To Usage
