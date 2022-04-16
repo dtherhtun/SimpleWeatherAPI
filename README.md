@@ -11,6 +11,12 @@ go1.17.6
 ```
 
 ## How To Usage
+Before run or build the main.go, please add API key from OpenWeatherMap in line number 18.
+Example:
+```
+const key="abcdefghijk123456789"
+```
+
 ```
 go run main.go
 ```

@@ -14,7 +14,8 @@ type Client struct {
 	HTTPClient *http.Client
 }
 
-const key = "17bd612e2ed1c8710abf9a58604d7bea"
+// Add API key from OpenWeatherMap
+const key = ""
 
 func NewClient(key string) *Client {
 	return &Client{
